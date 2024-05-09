@@ -1,6 +1,5 @@
 import { fetchBreeds } from './cat-api.js';
 import { fetchCatByBreed } from './cat-api.js';
-import SlimSelect from 'slim-select';
 
 const loader = document.querySelector('.loader');
 const errorText = document.querySelector('.error');
