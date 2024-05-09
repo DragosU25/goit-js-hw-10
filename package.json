@@ -2,7 +2,7 @@
   "name": "team-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://dragosu25.github.io/goit-js-hw-10",
+  "homepage": "https://dragosu25.github.io/goit-js-hw-10/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
@@ -15,13 +15,11 @@
   "author": "Dragos Ungureanu <ungureanud6@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DragosU25/goit-js-hw-10t/issues"
+    "url": "https://github.com/DragosU25/goit-js-hw-10/issues"
   },
   "dependencies": {
     "animate.css": "^4.1.1",
-    "flatpickr": "^4.6.13",
-    "modern-normalize": "^1.1.0",
-    "notiflix": "^3.2.7"
+    "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
